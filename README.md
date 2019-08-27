@@ -1,0 +1,2 @@
+# Homebrew-CPU
+homebrew cpu
